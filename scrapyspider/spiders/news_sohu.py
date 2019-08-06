@@ -6,6 +6,7 @@ from scrapy.selector import Selector
 import re, requests, time
 import json
 
+
 count = 50000
 
 class newssohu_Spider(CrawlSpider):
