@@ -27,4 +27,3 @@ class newsItem(Item):   # 新闻内容包含以下属性
 
 
 
-
