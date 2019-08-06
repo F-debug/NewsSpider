@@ -265,3 +265,5 @@ def get_comment(comment_url, news_item):
         return 0, ''
 
 
+
+    
