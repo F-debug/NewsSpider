@@ -6,6 +6,7 @@ import sys
 maxInt = sys.maxsize
 decrement = True
 
+
 # 爬取的新闻csv文件
 csv_path = 'E:\Python\以前的项目\\NewsSpider-master\\网易新闻0831.csv'
 # 评论文件输出路径
