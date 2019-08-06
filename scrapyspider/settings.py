@@ -111,3 +111,4 @@ DOWNLOAD_TIMEOUT = 100
 ITEM_PIPELINES = {
     'scrapyspider.pipelines.ScrapyspiderPipeline': 300,# pipeline中的类名
 }
+
