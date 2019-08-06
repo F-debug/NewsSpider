@@ -89,6 +89,7 @@ def get_title(article, titleXpath, news_item):
     article_title = article_title.replace(' ', '')
     news_item['title'] = article_title
 
+    
 
 '''通用日期处理函数'''
 def get_date(article, dateXpath, news_item):
